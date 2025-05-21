@@ -40,8 +40,8 @@
 ![exp4ss2](https://github.com/user-attachments/assets/f3c9fea3-de1f-4956-aed8-d2d100a108fc)
 
 
-### Name: PRIYA DHARSHNI S
-### Register Number: 212224100045
+### Name: Manoj R
+### Register Number: 212224230152
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
